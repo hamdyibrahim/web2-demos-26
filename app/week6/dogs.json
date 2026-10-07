@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "description": "Buddy is a 3 years old Golden Retriever who loves to play fetch and enjoys long walks in the park.",
+    "imageurl": "/images/dog1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "description": "Max is a 5 years old Beagle who is very friendly and loves to cuddle.",
+    "imageurl": "/images/dog2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bella",
+    "description": "Bella is a 2 years old Labrador Retriever who enjoys swimming and playing with other dogs.",
+    "imageurl": "/images/dog3.jpg"
+  }
+]
