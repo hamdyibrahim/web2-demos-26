@@ -50,7 +50,7 @@ export default function Page() {
                 src={dog.imageurl}
                 alt={dog.name}
               />
-              <div clasName="ml-4">
+              <div className="ml-4">
                 <h2 className="text-xl font-bold">{dog.name} </h2>
                 <p className="text-blue-950">{dog.description}</p>
               </div>
